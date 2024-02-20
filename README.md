@@ -3,9 +3,7 @@
 1. [Introduction](#introduction)
 2. [Business Scenario](#business-scenario)
 4. [Project Background](#project-background)
-5. [Task 1: Data Loading and Model Relationships in Tableau](#task-1-data-loading-and-model-relationships-in-tableau)
-6. [Task 2: Develop Interactive and Effective Dashboards using Tableau](#task-2-develop-interactive-and-effective-dashboards-using-tableau)
-7. [Task 3: Narrate a Data Story using Tableau Story Point](#task-3-narrate-a-data-story-using-tableau-story-point)
+5. [Tasks](#task)
 
 ## Introduction
 
@@ -30,7 +28,7 @@ As a business analyst employed by AWC, you are tasked to analyze the data of AWC
 1. To examine the prevailing situation of the internet sales of AWC via descriptive analytics methods.
 2. To draft valid recommendations to AWC by evaluating the customer buying behavior to improve their future internet sales.
 
-## Task
+## Tasks
 
 - Task 1: Data Loading and Model Relationships in Tableau
 
