@@ -3,7 +3,7 @@
 1. [Introduction](#introduction)
 2. [Business Scenario](#business-scenario)
 4. [Project Background](#project-background)
-5. [Tasks](#task)
+5. [Tasks](#tasks)
 
 ## Introduction
 
